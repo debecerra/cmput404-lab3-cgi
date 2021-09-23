@@ -12,4 +12,4 @@ Question 6: The browser HTTP request contains the header "Cookie: key=value" to 
 
 Question 7: Cookies are used to store data about the current user session, such as login status. Since HTTP is stateless, this allows the server to assign stateful data to a user that can be utilized during future requests. 
 
-Question 8: 
+Question 8: https://github.com/debecerra/cmput404-lab3-cgi.git
