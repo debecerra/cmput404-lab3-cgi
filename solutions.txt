@@ -1,0 +1,15 @@
+Question 1: We use function os.environ to access environmnent variables
+
+Question 2: There is a environment variable called QUERY_STRING that contains the query parameter data
+
+Question 3: The environment variable HTTP_USER_AGENT contains info about the user' browser.
+
+Question 4: We obtain the POSTed form data by reading from cgi.FieldStorage
+
+Question 5: We use the header syntax "Set-Cookie: key = value\r\n" to set a cookie
+
+Question 6: The browser HTTP request contains the header "Cookie: key=value" to send the cookie back to the server 
+
+Question 7: Cookies are used to store data about the current user session, such as login status. Since HTTP is stateless, this allows the server to assign stateful data to a user that can be utilized during future requests. 
+
+Question 8: 
